@@ -1,0 +1,4 @@
+# Cassie's Bio
+#
+
+As Chief Decision Scientist at Google Cloud, Cassie Kozyrkov advises leadership teams on decision process, AI strategy, and building data-driven organizations. She works to democratize statistical thinking and machine learning so that everyone - Google, its customers, the world! - can harness the beauty and power of data. She is the force behind bringing the practice of Decision Intelligence to Google and she has personally trained over 15,000 Googlers in machine learning, statistics, and data-driven decision-making. Before her current role, she served in Google's Office of the CTO as Chief Data Scientist. Prior to joining Google, Cassie worked as a data scientist and consultant. She holds degrees in mathematical statistics, economics, psychology, and cognitive neuroscience. When she’s not working, you’re most likely to find Cassie at the theater, in an art museum, exploring the world, or curled up with a good novel.
